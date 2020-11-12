@@ -1,2 +1,8 @@
 *.csv
 *.zip
+keras/keras_tune
+keras/structured_data_classifier
+*-checkpoint.ipynb
+*autosklearn*
+*.xlsx
+keras/auto_model
